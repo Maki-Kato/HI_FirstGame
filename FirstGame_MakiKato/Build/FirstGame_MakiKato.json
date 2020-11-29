@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HI-Project",
+"productVersion": "0.1",
+"dataUrl": "FirstGame_MakiKato.data.unityweb",
+"wasmCodeUrl": "FirstGame_MakiKato.wasm.code.unityweb",
+"wasmFrameworkUrl": "FirstGame_MakiKato.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
